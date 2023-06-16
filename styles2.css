@@ -1,4 +1,5 @@
 body{
 background-size: cover;
-
+padding: inherit;
+margin-left: auto;
 }
